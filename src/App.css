@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+html,
+body {
+  background: rgb(10,141,166);
+  color: white;
+  margin-top: 70px;
+  margin-left: 330px;
+}
+
+h1 {
+  color: #1b1b22;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.task-app {
+  background: rgb(70,211,237);
+  box-shadow: -7px 7px 20px black;
+  width: 600px;
+  min-height: 500px;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 25px;
+}
+
+.icon-app {
+  margin-left: 10px;
+  rotate: 15deg;
+}
